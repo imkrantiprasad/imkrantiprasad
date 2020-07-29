@@ -1,5 +1,22 @@
 ### Hi there 👋, I'm Kranti Prasad
 
+<br/>
+
+<a href="https://twitter.com/krantigaur">
+  <img align="left" alt="Kranti's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://https://www.linkedin.com/in/kranti-prasad-690034131/">
+  <img align="left" alt="Kranti's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/imkrantiprasad">
+  <img align="left" alt="Kranti's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/mahiholic/">
+  <img align="left" alt="Kranti's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br/>
+
 - 🔭 I’m currently working on React.js
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on React based projects.
